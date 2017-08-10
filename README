@@ -1,0 +1,7 @@
+HOW TO USE
+
+1. Download the Zip file and extract it.
+2. Now, open a command prompt (CMD) in that folder and run sbt
+3. In the sbt termianl, run eclipse
+4. Thats it.. You can open this project in eclipse by importing it.
+5. Run the program and enter any keyword, to get data related to it..
